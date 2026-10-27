@@ -1,0 +1,27 @@
+EXPOGESSO 2026 — LINK COM PRÉVIA NO WHATSAPP
+
+ARQUIVOS:
+- index.html: página com prévia e redirecionamento ao Google Forms após 3,5 segundos.
+- logo-expogesso.png: logo original enviada.
+- preview-whatsapp.jpg: imagem 1200 x 630 para o cartão do WhatsApp.
+
+PUBLICAR NO GITHUB PAGES:
+1. Crie um repositório PÚBLICO no GitHub, por exemplo: credenciamento-expogesso.
+2. Envie os três arquivos para a raiz do repositório.
+3. No arquivo index.html, substitua em DUAS ocorrências:
+   https://SEU_USUARIO.github.io/SEU_REPOSITORIO/preview-whatsapp.jpg
+   pela URL real da imagem publicada (por exemplo:
+   https://meuusuario.github.io/credenciamento-expogesso/preview-whatsapp.jpg).
+4. Salve a alteração (Commit changes).
+5. No repositório: Settings > Pages > Build and deployment > Deploy from a branch;
+   branch main e pasta /(root); Save.
+6. Abra o endereço https://SEU_USUARIO.github.io/SEU_REPOSITORIO/ e verifique.
+7. Compartilhe ESSE endereço no WhatsApp, não o forms.gle.
+
+IMPORTANTE:
+- GitHub Pages precisa de repositório público no plano gratuito.
+- O WhatsApp pode guardar prévias antigas em cache; testar com um link ainda não compartilhado.
+- A imagem social requer URL HTTPS absoluta e pública no og:image.
+- O link do Forms configurado atualmente é https://forms.gle/TkabZJBeB5umGPfq7.
+- O botão abre o formulário e a página redireciona automaticamente em 3,5 segundos.
+- Não garante alternância nem limita vagas automaticamente: isso precisa de controle no Forms/planilha.
